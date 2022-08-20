@@ -1,6 +1,6 @@
 <h3>Проектная работа по модулю "SQL и получение данных" (учебный курс в Нетологии)</h3>
 
-В работе использовалась <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/1_qty_airports.sql" target="_blank">база данных, содержащая информацию по авиаперелетам внутри России.<br>
+В работе использовалась <a href="https://edu.postgrespro.ru/demo_big.zip" target="_blank">база данных :arrow_down:</a>, содержащая информацию по авиаперелетам внутри России:airplane:<br>
 ER-диаграмма представлена ниже: </div><br>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/63310859/185212928-7bcd3160-c2cb-4ae7-9578-e6f69cf34b0d.png" height="400"/></div><br>
