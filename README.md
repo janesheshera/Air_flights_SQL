@@ -21,3 +21,4 @@
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/8_peresadki.sql"> :eight: Между какими городами пассажиры делали пересадки? (пересадка: остановка в аэропорту длительностью менее 1 суток)</a>
 
 <a href="https://docs.google.com/document/d/12dGmYwjqpAy__lnjno1LQ9KXCBR_TESEtts4-BwfwUs">:bangbang: Пошаговое описание выполненных запросов :page_with_curl:</a>
+<h6>*все ссылки открываются в существующем окне</h6>
