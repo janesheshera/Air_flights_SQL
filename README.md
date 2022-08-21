@@ -2,7 +2,7 @@
 
 В работе использовалась <a href="https://edu.postgrespro.ru/demo_big.zip" target="_blank">база данных :arrow_down:</a>, содержащая информацию по авиаперелетам внутри России:airplane:<br>
 <br>
-<a href="https://docs.google.com/document/d/1G3gneIaHTboDp5hFIJpl62flqH8RLuHSQbiLZzzPL4o" target="_blank">Подробное описание БД Авиаперевозки</a><br>
+<a href="https://docs.google.com/document/d/1G3gneIaHTboDp5hFIJpl62flqH8RLuHSQbiLZzzPL4o">Подробное описание БД Авиаперевозки</a><br>
 <br>
 Для наглядности ER-диаграмма представлена ниже: <br>
 
