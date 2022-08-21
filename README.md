@@ -18,3 +18,5 @@ ER-диаграмма представлена ниже: <br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/6_delay_aircrafts.sql" target="_blank"> :six: Узнать максимальное время задержки вылетов самолетов.</a><br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/7_qty_flights_in_one_ticket.sql" target="_blank"> :seven: Между какими городами нет прямых рейсов?</a><br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/8_peresadki.sql" target="_blank"> :eight: Между какими городами пассажиры делали пересадки? (пересадка: остановка в аэропорту длительностью менее 1 суток)</a>
+
+<a href="https://docs.google.com/document/d/12dGmYwjqpAy__lnjno1LQ9KXCBR_TESEtts4-BwfwUs" target="_blank"> Пошаговое описание выполненных запросов</a>
