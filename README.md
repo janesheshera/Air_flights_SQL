@@ -2,7 +2,7 @@
 
 В работе использовалась <a href="https://edu.postgrespro.ru/demo_big.zip" target="_blank">база данных :arrow_down:</a>, содержащая информацию по авиаперелетам внутри России:airplane:<br>
 <br>
-<a href="https://docs.google.com/document/d/1G3gneIaHTboDp5hFIJpl62flqH8RLuHSQbiLZzzPL4o" target="_blank">Подробное описание БД Авиаперевозки</a><br>
+<a href="https://docs.google.com/document/d/1G3gneIaHTboDp5hFIJpl62flqH8RLuHSQbiLZzzPL4o" target="_blank">:bookmark_tabs:Подробное описание БД Авиаперевозки</a><br>
 <br>
 Для наглядности ER-диаграмма представлена ниже: <br>
 
@@ -20,4 +20,4 @@
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/7_qty_flights_in_one_ticket.sql" target="_blank"> :seven: Между какими городами нет прямых рейсов?</a><br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/8_peresadki.sql" target="_blank"> :eight: Между какими городами пассажиры делали пересадки? (пересадка: остановка в аэропорту длительностью менее 1 суток)</a>
 
-<a href="https://docs.google.com/document/d/12dGmYwjqpAy__lnjno1LQ9KXCBR_TESEtts4-BwfwUs" target="_blank"> Пошаговое описание выполненных запросов</a>
+<a href="https://docs.google.com/document/d/12dGmYwjqpAy__lnjno1LQ9KXCBR_TESEtts4-BwfwUs" target="_blank">:bangbang: Пошаговое описание выполненных запросов :page_with_curl:</a>
