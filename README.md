@@ -10,7 +10,7 @@
 
 Поставленные задачи решались посредством системы управления базами данных PostgreSQL. Используемое программное приложение DBeaver.<br>
 
-В проектной работе осуществлены запросы, которые отвечают на вопросы:<br>
+В проектной работе осуществлены запросы, которые отвечают на вопросы (ссылки на SQL-):<br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/1_qty_airports.sql" target="_blank"> :one: В каких городах больше одного аэропорта?</a><br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/2_max_fly_distance.sql" target="_blank"> :two: В каких аэропортах есть рейсы, которые обслуживаются самолетами с максимальной дальностью перелетов?</a><br>
 <a href="https://github.com/janesheshera/Air_flights_SQL/blob/main/3_booking_but_not_fly.sql" target="_blank"> :three: Были ли брони, по которым не совершались перелеты?</a><br>
